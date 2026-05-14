@@ -2,7 +2,7 @@
 name: skill-distributor
 description: 一键将 Skill 分发到全平台。读取 SKILL.md → 生成各平台描述文案（GitHub/CocoLoop/SkillHub/SkillsBook/虾技市场/ClawHub）→ 生成社交推广文案（小红书/即刻/知乎/掘金）→ 输出到 distro/ 文件夹 → 可选 GitHub 推送。
 version: "1.0.0"
-author: mengfanguo1
+author: GMF515
 allowed-tools: Read,Write,Bash
 agent_created: true
 trigger_words: 分发Skill,全平台发布,帮我发到各平台,一键发布,skill分发
